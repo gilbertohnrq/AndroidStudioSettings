@@ -1,0 +1,7 @@
+<application>
+  <component name="org.overengineer.inlineproblems.settings.SettingsState">
+    <option name="filterListMigrationDone01" value="true" />
+    <option name="highlightProblemListenerDeprecateMigrationDone" value="true" />
+    <option name="problemFilterList" value="todo;fixme;open in browser;Consider unknown contexts non-blocking" />
+  </component>
+</application>
