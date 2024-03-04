@@ -4,7 +4,7 @@
     <property name="created">2024-01-29T09:34:00</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2023.1.1.28</property>
-    <property name="modified">2024-03-01T19:44:01</property>
+    <property name="modified">2024-03-04T18:21:05</property>
     <property name="originalScheme">Atom One Dark Azure</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -87,7 +87,7 @@
         <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -445,7 +445,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="" />
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="efaa8e" />
@@ -1242,7 +1242,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
     <option name="HTML_CODE">
       <value />
     </option>
