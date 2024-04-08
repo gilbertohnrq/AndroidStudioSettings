@@ -1,6 +1,0 @@
-<application>
-  <component name="Emulator">
-    <option name="activateOnAppLaunch" value="false" />
-    <option name="launchInToolWindow" value="false" />
-  </component>
-</application>
