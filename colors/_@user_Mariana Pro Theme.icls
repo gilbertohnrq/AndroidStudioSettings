@@ -4,7 +4,7 @@
     <property name="created">2024-02-19T16:23:51</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2023.1.1.28</property>
-    <property name="modified">2024-05-29T19:24:02</property>
+    <property name="modified">2024-05-30T18:35:07</property>
     <property name="originalScheme">Mariana Pro Theme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -798,8 +798,8 @@
         <option name="FOREGROUND" value="c494c4" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
-    <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="HTML_TAG_NAME" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
+    <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="" />
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="c494c4" />
