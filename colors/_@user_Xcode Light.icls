@@ -1,0 +1,14 @@
+<scheme name="_@user_Xcode Light" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2024.2.2.13</property>
+    <property name="originalScheme">Xcode Light</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.vermouthx.xcode-theme</property>
+  </metaInfo>
+  <attributes>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
+</scheme>
