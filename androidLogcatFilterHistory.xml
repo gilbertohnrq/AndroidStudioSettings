@@ -1,0 +1,10 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message:camera" />
+    <option name="nonFavorites">
+      <list>
+        <option value="message:camera" />
+      </list>
+    </option>
+  </component>
+</application>
